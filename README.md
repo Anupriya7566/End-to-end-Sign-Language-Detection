@@ -1,4 +1,4 @@
-# End-to-end-Sign-Language-Detection
+# End-to-end-Sign-Language-Recognition
 
 1. constants
 2. entity
