@@ -9,4 +9,4 @@
 
 # Process of Sign Recognition
 
-"https://www.researchgate.net/publication/286328579/figure/fig1/AS:335738357993472@1457057670338/Block-Diagram-of-proposed-system-architecture-Sign-language-image-database-is-created-by.png"
+![image](https://github.com/Anupriya7566/End-to-end-Sign-Language-Recognition_using_YOLOV5/assets/132358357/8dcdb8fa-03ae-40ca-99fe-08f585468c36)
